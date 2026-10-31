@@ -8,7 +8,7 @@ from telethon import TelegramClient, events
 # --- Datos del usuario ---
 API_ID = 23032698
 API_HASH = '99ad65a5fcd38203621cb20acd2aaba5'
-BOT_TOKEN = '9180250040:AAH-HHpimmA_wJ6YaD8U90pjY2cEApXAORo'
+BOT_TOKEN = '9183381098:AAFKjLIPVnYVvlobnAKG4A3J1jm4gmTmy0c'
 MY_ID = 8626660857  # ID del dueño único
 LOG_CHANNEL = 'wkwnwnqnqk'  # Nombre de usuario del canal sin @ ni enlace completo
 
